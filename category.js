@@ -1,26 +1,26 @@
 [
     {
-      "category": "Cultura",
-      "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+      "category": "Networking",
+      "description": "Preguntas relacionadas infraestructura de Redes de comunicacion TCP/IP."
     },
     {
-      "category": "Deportes",
-      "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+      "category": "Protocolos",
+      "description": "Preguntas relacionadas con protocolos de comunicacion."
     },
     {
-      "category": "Arte",
-      "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+      "category": "Seguridad",
+      "description": "Preguntas relacionadas con practicas de seguridad en las redes de comunicacion."
     },
     {
-      "category": "Cine",
+      "category": "Cables",
       "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
     },
     {
-      "category": "Historia",
-      "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+      "category": "Switch",
+      "description": "Preguntas relacionadas con administracion de swtches en la red y sus tipos."
     },
     {
-      "category": "Ciencia",
-      "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+      "category": "Routers",
+      "description": "Preguntas relacionadas con diferentes tipos de Routers."
     }
   ]
